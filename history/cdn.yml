@@ -1,7 +1,7 @@
 url: https://app.tandemchat.ru/autumn
-status: up
-code: 200
-responseTime: 282
-lastUpdated: 2025-01-14T19:51:59.539Z
+status: down
+code: 502
+responseTime: 14209
+lastUpdated: 2025-01-14T20:15:58.710Z
 startTime: 2024-10-16T17:16:47.441Z
 generator: Upptime <https://github.com/upptime/upptime>
