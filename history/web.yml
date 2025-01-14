@@ -1,7 +1,7 @@
 url: https://app.tandemchat.ru
-status: up
-code: 200
-responseTime: 773
-lastUpdated: 2025-01-14T09:22:17.219Z
+status: down
+code: 502
+responseTime: 25794
+lastUpdated: 2025-01-14T09:48:53.888Z
 startTime: 2024-10-16T17:16:46.714Z
 generator: Upptime <https://github.com/upptime/upptime>
