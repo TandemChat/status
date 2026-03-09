@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.tandemchat.ru.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "30.88%",
+    "uptime": "30.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "18.35%",
-    "time": 4075,
+    "time": 4085,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4533,
+    "timeYear": 4551,
     "dailyMinutesDown": {
-      "2026-03-08": 58,
+      "2026-03-09": 59,
+      "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -315,8 +316,7 @@
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
-      "2025-03-10": 1440,
-      "2025-03-09": 1440
+      "2025-03-10": 1440
     }
   },
   {
@@ -325,18 +325,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.tandemchat.ru.ico",
     "slug": "web",
     "status": "down",
-    "uptime": "32.91%",
+    "uptime": "32.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "21.16%",
-    "time": 3028,
+    "time": 3036,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3536,
+    "timeYear": 3550,
     "dailyMinutesDown": {
-      "2026-03-08": 59,
+      "2026-03-09": 59,
+      "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -626,8 +627,7 @@
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
-      "2025-03-10": 1440,
-      "2025-03-09": 1440
+      "2025-03-10": 1440
     }
   },
   {
@@ -636,18 +636,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.tandemchat.ru.ico",
     "slug": "cdn",
     "status": "down",
-    "uptime": "30.90%",
+    "uptime": "30.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "18.35%",
-    "time": 2904,
+    "time": 2912,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3551,
+    "timeYear": 3565,
     "dailyMinutesDown": {
-      "2026-03-08": 59,
+      "2026-03-09": 59,
+      "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -946,8 +947,7 @@
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
-      "2025-03-10": 1440,
-      "2025-03-09": 1440
+      "2025-03-10": 1440
     }
   },
   {
@@ -956,18 +956,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vortex.rus-land.fun.ico",
     "slug": "voice",
     "status": "down",
-    "uptime": "3.62%",
+    "uptime": "3.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 576,
+    "time": 575,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 576,
+    "timeYear": 573,
     "dailyMinutesDown": {
-      "2026-03-08": 59,
+      "2026-03-09": 59,
+      "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -1330,8 +1331,7 @@
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
-      "2025-03-10": 1440,
-      "2025-03-09": 1440
+      "2025-03-10": 1440
     }
   }
 ]
